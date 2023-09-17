@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- saved from url=(0076)file:///C:/Users/Fatmanur/Desktop/web_programlama/responsive-site/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>responsive site</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./mysite_files/css2" rel="stylesheet">
+    <link rel="stylesheet" href="./mysite_files/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="bgimage"></div>
+        <div class="content">
+            <h1>Fatmanur Yavuz @fatmanuryvz</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+            <a href="file:///C:/Users/Fatmanur/Desktop/web_programlama/responsive-site/index.html#" class="btn">read more</a>
+        </div>
+
+        <main>
+            <section id="section-a">
+                <div class="content">
+                    <h2>Nature&amp; Landscape photos</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore.</p>
+                </div>
+            </section>
+            <section id="section-b">
+                <ul>
+                    <li>
+                        <div class="col">
+                            <img src="./mysite_files/manzarafotot.jpg" alt="">
+                            <div class="col-content"></div>
+                            <h3 class="coll-title">Photography</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="col">
+                            <img src="./mysite_files/foto2.jpg" alt="">
+                            <div class="col-content"></div>
+                            <h3 class="coll-title">Photography</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="col">
+                            <img src="./mysite_files/foto3.jpg" alt="">
+                            <div class="col-content"></div>
+                            <h3 class="coll-title">Photography</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </li>
+                </ul>
+
+
+            </section>
+
+
+        </main>
+
+    </header>
+
+
+
+</body></html>
